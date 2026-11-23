@@ -6,6 +6,7 @@
 
 ---
 
+
 ## 📌 Project Overview
 
 The **Bookstore Inventory and Analytics System** is a console-based Python project that manages a bookstore's inventory and analyzes its sales data using **Object-Oriented Programming (OOP)** and data analysis libraries.
