@@ -2,7 +2,7 @@
 
 ## Author
 
-**Your Name**
+**Adnan**
 
 ---
 
